@@ -1,6 +1,5 @@
 #/bin/bash
-<<<<<<< HEAD
-echo ALX school is so cool school is so cool
-=======
-echo ALX SCHOOL school
->>>>>>> update_script
+echo ALX school is  so cool
+
+
+
